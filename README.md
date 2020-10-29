@@ -13,7 +13,7 @@ I used Q-learning technique and the planning code of pddlsim.
 * PDDL
 
 ## Setup
-To run the project with leran mode:
+To run the project with learn mode:
 ```
 $ python my_executive.py -L <domain_file> <problem_file>
 ```
